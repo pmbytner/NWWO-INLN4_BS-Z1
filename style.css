@@ -13,3 +13,7 @@ h1:first-child {
 p {
     margin-bottom: 1.5em;
 }
+
+ol {
+    list-style-type: upper-roman;
+}
