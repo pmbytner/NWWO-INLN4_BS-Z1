@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Nasze w³asne regu³y ignorowania
+.gitignore
+notatki.txt
