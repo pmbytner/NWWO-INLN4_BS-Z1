@@ -1,4 +1,15 @@
 ﻿body
 {
-    color: hsl(240,50%,5%);
+    color: hsl(240,50%,25%);
+}
+
+h1 {
+    color: hsl(240,100%,25%);
+    margin-top: 2.5em;
+}
+h1:first-child {
+    margin-top: 0;
+}
+p {
+    margin-bottom: 1.5em;
 }
