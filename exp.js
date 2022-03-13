@@ -1,1 +1,3 @@
-class Eksperyment {}
+class Eksperyment {
+
+}
