@@ -1,1 +1,4 @@
-class Eksperyment {}
+class Eksperyment {
+    constructor() {}
+    przeprowadü() {}
+}
